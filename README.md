@@ -1,1 +1,1 @@
-![image](https://raw.githubusercontent.com/maryilewis/stained-glass/refs/heads/main/screenshot.png)
+![image](https://github.com/maryilewis/stained-glass/blob/main/Screenshot.png)

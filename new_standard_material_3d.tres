@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://p26ldkxqljtn"]
+
+[ext_resource type="Texture2D" uid="uid://c87p5ydadq7c7" path="res://mondrian.png" id="1_6g57j"]
+
+[resource]
+resource_name = "Material.014"
+transparency = 1
+blend_mode = 1
+cull_mode = 2
+albedo_texture = ExtResource("1_6g57j")
+roughness = 0.5

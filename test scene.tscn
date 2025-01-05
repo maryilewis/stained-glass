@@ -1,8 +1,8 @@
 [gd_scene load_steps=19 format=4 uid="uid://vl2k2haqsa2b"]
 
-[ext_resource type="Texture2D" uid="uid://c0rdekrijujtd" path="res://mondrian flipped.png" id="1_v63kf"]
+[ext_resource type="Texture2D" uid="uid://c0rdekrijujtd" path="res://image/mondrian flipped.png" id="1_v63kf"]
 [ext_resource type="Texture2D" uid="uid://cet4ip2q847hm" path="res://textures/wood floor/Substance_Graph_BaseColor.jpg" id="2_su8ti"]
-[ext_resource type="Material" uid="uid://p26ldkxqljtn" path="res://new_standard_material_3d.tres" id="3_5pxmg"]
+[ext_resource type="Material" uid="uid://p26ldkxqljtn" path="res://image/new_standard_material_3d.tres" id="3_5pxmg"]
 [ext_resource type="Texture2D" uid="uid://bec6fflyvl11l" path="res://textures/wood floor/Substance_Graph_AmbientOcclusion.jpg" id="3_lcvxo"]
 [ext_resource type="Texture2D" uid="uid://b4exmlxitdggu" path="res://textures/wood floor/Substance_Graph_Height.jpg" id="4_4v86h"]
 [ext_resource type="Texture2D" uid="uid://bkysq862bobuh" path="res://textures/wood floor/Substance_Graph_Normal.jpg" id="5_todml"]

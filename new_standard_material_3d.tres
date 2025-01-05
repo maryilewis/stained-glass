@@ -9,3 +9,5 @@ blend_mode = 1
 cull_mode = 2
 albedo_texture = ExtResource("1_6g57j")
 roughness = 0.5
+backlight_enabled = true
+backlight = Color(1, 1, 1, 1)
